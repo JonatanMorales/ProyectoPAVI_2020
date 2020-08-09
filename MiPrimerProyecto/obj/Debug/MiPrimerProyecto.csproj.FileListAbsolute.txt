@@ -1,0 +1,20 @@
+D:\Oscar\UTN\PAVI\2020\3k1\Practico\Clase1\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.exe.config
+D:\Oscar\UTN\PAVI\2020\3k1\Practico\Clase1\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.exe
+D:\Oscar\UTN\PAVI\2020\3k1\Practico\Clase1\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.pdb
+D:\Oscar\UTN\PAVI\2020\3k1\Practico\Clase1\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.csprojAssemblyReference.cache
+D:\Oscar\UTN\PAVI\2020\3k1\Practico\Clase1\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.Properties.Resources.resources
+D:\Oscar\UTN\PAVI\2020\3k1\Practico\Clase1\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.csproj.GenerateResource.cache
+D:\Oscar\UTN\PAVI\2020\3k1\Practico\Clase1\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.csproj.CoreCompileInputs.cache
+D:\Oscar\UTN\PAVI\2020\3k1\Practico\Clase1\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.exe
+D:\Oscar\UTN\PAVI\2020\3k1\Practico\Clase1\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.pdb
+D:\Oscar\UTN\PAVI\2020\3k1\Practico\Clase1\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.frmLogin.resources
+D:\Usuarios\Jonatan\Documents\Facultad 2020\Programacion audiovisual 1 2020\Practico\20200730\Clase1 30072020-20200806\MiPrimerProyecto\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.exe.config
+D:\Usuarios\Jonatan\Documents\Facultad 2020\Programacion audiovisual 1 2020\Practico\20200730\Clase1 30072020-20200806\MiPrimerProyecto\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.exe
+D:\Usuarios\Jonatan\Documents\Facultad 2020\Programacion audiovisual 1 2020\Practico\20200730\Clase1 30072020-20200806\MiPrimerProyecto\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.pdb
+D:\Usuarios\Jonatan\Documents\Facultad 2020\Programacion audiovisual 1 2020\Practico\20200730\Clase1 30072020-20200806\MiPrimerProyecto\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.csprojAssemblyReference.cache
+D:\Usuarios\Jonatan\Documents\Facultad 2020\Programacion audiovisual 1 2020\Practico\20200730\Clase1 30072020-20200806\MiPrimerProyecto\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.frmLogin.resources
+D:\Usuarios\Jonatan\Documents\Facultad 2020\Programacion audiovisual 1 2020\Practico\20200730\Clase1 30072020-20200806\MiPrimerProyecto\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.Properties.Resources.resources
+D:\Usuarios\Jonatan\Documents\Facultad 2020\Programacion audiovisual 1 2020\Practico\20200730\Clase1 30072020-20200806\MiPrimerProyecto\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.csproj.GenerateResource.cache
+D:\Usuarios\Jonatan\Documents\Facultad 2020\Programacion audiovisual 1 2020\Practico\20200730\Clase1 30072020-20200806\MiPrimerProyecto\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.csproj.CoreCompileInputs.cache
+D:\Usuarios\Jonatan\Documents\Facultad 2020\Programacion audiovisual 1 2020\Practico\20200730\Clase1 30072020-20200806\MiPrimerProyecto\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.exe
+D:\Usuarios\Jonatan\Documents\Facultad 2020\Programacion audiovisual 1 2020\Practico\20200730\Clase1 30072020-20200806\MiPrimerProyecto\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.pdb
