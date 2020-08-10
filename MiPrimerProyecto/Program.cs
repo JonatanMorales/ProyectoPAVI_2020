@@ -11,6 +11,7 @@ namespace MiPrimerProyecto
         /// <summary>
         /// Punto de entrada principal para la aplicación.
         /// </summary>
+	/// Punto de conflicto en busqueda
         [STAThread]
         static void Main()
         {
