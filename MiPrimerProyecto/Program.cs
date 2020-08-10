@@ -9,7 +9,7 @@ namespace MiPrimerProyecto
     static class Program
     {
         /// <summary>
-        /// Punto de entrada principal para la aplicación.
+        /// Punto de entrada principal para la aplicación PAV1.
         /// </summary>
         [STAThread]
         static void Main()
