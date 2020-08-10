@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Hola mi nombre es Jonatan Morales
+=======
+<<<<<<< HEAD
+Hola Hola Hola mi nombre es Jonatan Morales holaaaa holax2
+=======
+Hola Hola Hola mi nombre es Jonatan MoralesS holaaaa
+>>>>>>> a354c8d52a07e0dfe17696cc97b49bf56985d9cb
+>>>>>>> 9c2322f4fbdefe26d6b317d79e28ff7ad4123537
