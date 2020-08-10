@@ -9,7 +9,7 @@ namespace MiPrimerProyecto
     static class Program
     {
         /// <summary>
-        /// Punto de entrada principal para la aplicación en C#
+        /// Punto de entrada principal para la aplicación en lenguajeProgram
         /// </summary>
 	/// Punto de conflicto en busqueda
         [STAThread]
